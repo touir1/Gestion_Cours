@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d08cf95-800a-4c8c-9249-2364e419681e" name="Default" comment="" />
+    <ignored path="Gestion_Cours_project.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Gestion_Cours_project" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="js_connexion.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js_connexion.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="120" column="9" selection-start-line="120" selection-start-column="9" selection-end-line="120" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="css_home.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css_home.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="upload_image.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/upload_image.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="41" column="48" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="connexion_obj.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/connexion_obj.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="123" column="32" selection-start-line="123" selection-start-column="13" selection-end-line="123" selection-end-column="32" />
+              <folding>
+                <marker date="1462488889704" expanded="true" signature="1092:1127" placeholder="SELECT id, u..auth..." />
+                <marker date="1462488889704" expanded="true" signature="1436:1461" placeholder="SELECT id, u..auth..." />
+                <marker date="1462488889704" expanded="true" signature="1702:1743" placeholder="SELECT id, u..professeur..." />
+                <marker date="1462488889704" expanded="true" signature="2056:2087" placeholder="SELECT id, u..professeur..." />
+                <marker date="1462488889704" expanded="true" signature="2056:2092" placeholder="SELECT id, u..admin..." />
+                <marker date="1462488889704" expanded="true" signature="2408:2452" placeholder="SELECT id_et..auth..." />
+                <marker date="1462488889704" expanded="true" signature="2727:2805" placeholder="SELECT id, n..liste_etudiant..." />
+                <marker date="1462488889704" expanded="true" signature="3397:3433" placeholder="SELECT id, u..admin..." />
+                <marker date="1462488889704" expanded="true" signature="3739:3765" placeholder="SELECT id, u..admin..." />
+                <marker date="1462488889704" expanded="true" signature="3982:4015" placeholder="SELECT id_et..auth..." />
+                <marker date="1462488889704" expanded="true" signature="4181:4221" placeholder="SELECT id,no..liste_etudiant..." />
+                <marker date="1462488889704" expanded="true" signature="4600:4634" placeholder="SELECT count..article..." />
+                <marker date="1462488889704" expanded="true" signature="4834:4881" placeholder="SELECT titre..." />
+                <marker date="1462488889704" expanded="true" signature="5451:5478" placeholder="SELECT count..article..." />
+                <marker date="1462488889704" expanded="true" signature="5451:5488" placeholder="SELECT count..professeur..." />
+                <marker date="1462488889704" expanded="true" signature="5691:5712" placeholder="SELECT id_ar..article..." />
+                <marker date="1462488889704" expanded="true" signature="5691:5716" placeholder="SELECT id, u..prof..." />
+                <marker date="1462488889704" expanded="true" signature="5691:5722" placeholder="SELECT id, u..professeur..." />
+                <marker date="1462488889704" expanded="true" signature="6140:6167" placeholder="SELECT count..professeur..." />
+                <marker date="1462488889704" expanded="true" signature="6140:6171" placeholder="SELECT count..list..." />
+                <marker date="1462488889704" expanded="true" signature="6140:6181" placeholder="SELECT count..liste_etudiant..." />
+                <marker date="1462488889704" expanded="true" signature="6388:6422" placeholder="SELECT id, u..liste_etudiant..." />
+                <marker date="1462488889704" expanded="true" signature="6388:6426" placeholder="SELECT id, u..auth..." />
+                <marker date="1462488889704" expanded="true" signature="6921:6979" placeholder="SELECT nom, ..liste_etudiant..." />
+                <marker date="1462488889704" expanded="true" signature="6921:6985" placeholder="SELECT nom, ..liste_etudiant..." />
+                <marker date="1462488889704" expanded="true" signature="6921:6990" placeholder="SELECT nom, ..liste_etudiant..." />
+                <marker date="1462488889704" expanded="true" signature="6921:6991" placeholder="SELECT nom, ..liste_etudiant..." />
+                <marker date="1462488889704" expanded="true" signature="8530:8563" placeholder="SELECT id_et..auth..." />
+                <marker date="1462488889704" expanded="true" signature="8729:8780" placeholder="SELECT id,gr..liste_etudiant..." />
+                <marker date="1462488889704" expanded="true" signature="9264:9305" placeholder="SELECT id, u..professeur..." />
+                <marker date="1462488889704" expanded="true" signature="9601:9638" placeholder="DELETE FROM ..." />
+                <marker date="1462488889704" expanded="true" signature="9739:9775" placeholder="DELETE FROM ..." />
+                <marker date="1462488889704" expanded="true" signature="9834:9869" placeholder="DELETE FROM ..." />
+                <marker date="1462488889704" expanded="true" signature="9972:10004" placeholder="DELETE FROM ..." />
+                <marker date="1462488889704" expanded="true" signature="10114:10145" placeholder="SELECT id, u..professeur..." />
+                <marker date="1462488889704" expanded="true" signature="10371:10407" placeholder="SELECT id, e..liste_etudiant..." />
+                <marker date="1462488889704" expanded="true" signature="10665:10699" placeholder="SELECT id, c..liste_etudiant..." />
+                <marker date="1462488889704" expanded="true" signature="10982:11015" placeholder="SELECT id_et..auth..." />
+                <marker date="1462488889704" expanded="true" signature="11194:11257" placeholder="UPDATE liste..." />
+                <marker date="1462488889704" expanded="true" signature="11382:11443" placeholder="UPDATE profe..." />
+                <marker date="1462488889704" expanded="true" signature="11560:11616" placeholder="UPDATE profe..." />
+                <marker date="1462488889704" expanded="true" signature="11727:11782" placeholder="UPDATE auth ..." />
+                <marker date="1462488889704" expanded="true" signature="11943:12010" placeholder="INSERT INTO ..." />
+                <marker date="1462488889704" expanded="true" signature="11943:12011" placeholder="INSERT INTO ..." />
+                <marker date="1462488889704" expanded="true" signature="13230:13362" placeholder="INSERT INTO ..." />
+                <marker date="1462488889704" expanded="true" signature="13498:13571" placeholder="INSERT INTO ..." />
+                <marker date="1462488889704" expanded="true" signature="14301:14370" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PHP/\connexion" pinned="false" current-in-tab="true">
+        <entry file="uml://PHP/\connexion">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>PHP</ID>
+              <OriginalElement>\connexion</OriginalElement>
+              <nodes>
+                <node x="0.0" y="0.0">\connexion</node>
+              </nodes>
+              <notes />
+              <edges />
+              <settings layout="Hierarchic Group" zoom="1.0" x="45.0" y="15.0" />
+              <SelectedNodes>
+                <node>\connexion</node>
+              </SelectedNodes>
+              <Categories />
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home_admin.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home_admin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="81" column="22" selection-start-line="81" selection-start-column="22" selection-end-line="81" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="connexion.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/connexion.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="110" column="89" selection-start-line="110" selection-start-column="89" selection-end-line="110" selection-end-column="89" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home_etudiant.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home_etudiant.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="227" column="113" selection-start-line="227" selection-start-column="113" selection-end-line="227" selection-end-column="113" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Html5" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/inscription.html" />
+        <option value="$PROJECT_DIR$/entete_not_connected.php" />
+        <option value="$PROJECT_DIR$/entete_not_connected.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/connexion.html" />
+        <option value="$PROJECT_DIR$/fonctions_utiles.php" />
+        <option value="$PROJECT_DIR$/css_home_etudiant.css" />
+        <option value="$PROJECT_DIR$/css_connexion.css" />
+        <option value="$PROJECT_DIR$/deconnect_function.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/upload_image.php" />
+        <option value="$PROJECT_DIR$/Connexion_professeur.php" />
+        <option value="$PROJECT_DIR$/css_home.css" />
+        <option value="$PROJECT_DIR$/form-validation.css" />
+        <option value="$PROJECT_DIR$/connexion.php" />
+        <option value="$PROJECT_DIR$/home_etudiant.php" />
+        <option value="$PROJECT_DIR$/home_professeur.php" />
+        <option value="$PROJECT_DIR$/connexion_admin.php" />
+        <option value="$PROJECT_DIR$/js_connexion.js" />
+        <option value="$PROJECT_DIR$/home_admin.php" />
+        <option value="$PROJECT_DIR$/connexion_obj.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gestion_Cours_project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../bin/php/php5.5.12" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration default="false" name="test.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Gestion_Cours_project/test.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="entete_not_connected.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Gestion_Cours_project/entete_not_connected.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="home_etudiant.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Gestion_Cours_project/home_etudiant.php">
+      <method />
+    </configuration>
+    <configuration default="true" type="AppEnginePhpConfigurationType" factoryName="App Engine for PHP">
+      <method />
+    </configuration>
+    <configuration default="true" type="ChromiumRemoteDebugType" factoryName="Chromium Remote">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" />
+      <option name="myWorkingDirectory" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="false" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/Gestion_Cours_project/index.php">
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.test.php" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.entete_not_connected.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.home_etudiant.php" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.home_etudiant.php" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.entete_not_connected.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.test.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d08cf95-800a-4c8c-9249-2364e419681e" name="Default" comment="" />
+      <created>1456068818210</created>
+      <option name="number" value="Default" />
+      <updated>1456068818210</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="676" y="0" width="697" height="735" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19530103" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32913387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Connexion_professeur.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="62" column="13" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connexion_obj.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="168" column="28" selection-start-line="168" selection-start-column="28" selection-end-line="168" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js_connexion.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connexion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="175" column="58" selection-start-line="175" selection-start-column="58" selection-end-line="175" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css_connexion.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_etudiant.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="40" column="92" selection-start-line="40" selection-start-column="92" selection-end-line="40" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Connexion_professeur.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="154" column="45" selection-start-line="154" selection-start-column="45" selection-end-line="154" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connexion_obj.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="105" column="26" selection-start-line="105" selection-start-column="26" selection-end-line="105" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js_connexion.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connexion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="175" column="58" selection-start-line="175" selection-start-column="58" selection-end-line="175" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css_connexion.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_etudiant.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="40" column="92" selection-start-line="40" selection-start-column="92" selection-end-line="40" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Connexion_professeur.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="147" column="57" selection-start-line="147" selection-start-column="57" selection-end-line="147" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connexion_obj.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="68" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connexion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css_connexion.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="75" column="26" selection-start-line="75" selection-start-column="26" selection-end-line="75" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connexion_obj.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="138" column="155" selection-start-line="138" selection-start-column="155" selection-end-line="138" selection-end-column="155" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="68" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connexion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css_connexion.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="75" column="26" selection-start-line="75" selection-start-column="26" selection-end-line="75" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connexion_obj.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="138" column="155" selection-start-line="138" selection-start-column="155" selection-end-line="138" selection-end-column="155" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js_connexion.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connexion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="166" column="84" selection-start-line="166" selection-start-column="84" selection-end-line="166" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css_connexion.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connexion_obj.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css_connexion.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pic.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/grass-background.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/users/etudiant/test/default.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/users/etudiant/touir/default.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/users/etudiant/touir/pic.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/form-validation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload_image.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="48" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css_home.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connexion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="110" column="89" selection-start-line="110" selection-start-column="89" selection-end-line="110" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connexion_admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.4">
+          <caret line="48" column="35" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Connexion_professeur.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.538462">
+          <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="50" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_etudiant.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="227" column="113" selection-start-line="227" selection-start-column="113" selection-end-line="227" selection-end-column="113" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_professeur.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.769231">
+          <caret line="32" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="354" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js_connexion.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="120" column="9" selection-start-line="120" selection-start-column="9" selection-end-line="120" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="81" column="22" selection-start-line="81" selection-start-column="22" selection-end-line="81" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connexion_obj.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="123" column="32" selection-start-line="123" selection-start-column="13" selection-end-line="123" selection-end-column="32" />
+          <folding>
+            <marker date="1462488889704" expanded="true" signature="1092:1127" placeholder="SELECT id, u..auth..." />
+            <marker date="1462488889704" expanded="true" signature="1436:1461" placeholder="SELECT id, u..auth..." />
+            <marker date="1462488889704" expanded="true" signature="1702:1743" placeholder="SELECT id, u..professeur..." />
+            <marker date="1462488889704" expanded="true" signature="2056:2087" placeholder="SELECT id, u..professeur..." />
+            <marker date="1462488889704" expanded="true" signature="2056:2092" placeholder="SELECT id, u..admin..." />
+            <marker date="1462488889704" expanded="true" signature="2408:2452" placeholder="SELECT id_et..auth..." />
+            <marker date="1462488889704" expanded="true" signature="2727:2805" placeholder="SELECT id, n..liste_etudiant..." />
+            <marker date="1462488889704" expanded="true" signature="3397:3433" placeholder="SELECT id, u..admin..." />
+            <marker date="1462488889704" expanded="true" signature="3739:3765" placeholder="SELECT id, u..admin..." />
+            <marker date="1462488889704" expanded="true" signature="3982:4015" placeholder="SELECT id_et..auth..." />
+            <marker date="1462488889704" expanded="true" signature="4181:4221" placeholder="SELECT id,no..liste_etudiant..." />
+            <marker date="1462488889704" expanded="true" signature="4600:4634" placeholder="SELECT count..article..." />
+            <marker date="1462488889704" expanded="true" signature="4834:4881" placeholder="SELECT titre..." />
+            <marker date="1462488889704" expanded="true" signature="5451:5478" placeholder="SELECT count..article..." />
+            <marker date="1462488889704" expanded="true" signature="5451:5488" placeholder="SELECT count..professeur..." />
+            <marker date="1462488889704" expanded="true" signature="5691:5712" placeholder="SELECT id_ar..article..." />
+            <marker date="1462488889704" expanded="true" signature="5691:5716" placeholder="SELECT id, u..prof..." />
+            <marker date="1462488889704" expanded="true" signature="5691:5722" placeholder="SELECT id, u..professeur..." />
+            <marker date="1462488889704" expanded="true" signature="6140:6167" placeholder="SELECT count..professeur..." />
+            <marker date="1462488889704" expanded="true" signature="6140:6171" placeholder="SELECT count..list..." />
+            <marker date="1462488889704" expanded="true" signature="6140:6181" placeholder="SELECT count..liste_etudiant..." />
+            <marker date="1462488889704" expanded="true" signature="6388:6422" placeholder="SELECT id, u..liste_etudiant..." />
+            <marker date="1462488889704" expanded="true" signature="6388:6426" placeholder="SELECT id, u..auth..." />
+            <marker date="1462488889704" expanded="true" signature="6921:6979" placeholder="SELECT nom, ..liste_etudiant..." />
+            <marker date="1462488889704" expanded="true" signature="6921:6985" placeholder="SELECT nom, ..liste_etudiant..." />
+            <marker date="1462488889704" expanded="true" signature="6921:6990" placeholder="SELECT nom, ..liste_etudiant..." />
+            <marker date="1462488889704" expanded="true" signature="6921:6991" placeholder="SELECT nom, ..liste_etudiant..." />
+            <marker date="1462488889704" expanded="true" signature="8530:8563" placeholder="SELECT id_et..auth..." />
+            <marker date="1462488889704" expanded="true" signature="8729:8780" placeholder="SELECT id,gr..liste_etudiant..." />
+            <marker date="1462488889704" expanded="true" signature="9264:9305" placeholder="SELECT id, u..professeur..." />
+            <marker date="1462488889704" expanded="true" signature="9601:9638" placeholder="DELETE FROM ..." />
+            <marker date="1462488889704" expanded="true" signature="9739:9775" placeholder="DELETE FROM ..." />
+            <marker date="1462488889704" expanded="true" signature="9834:9869" placeholder="DELETE FROM ..." />
+            <marker date="1462488889704" expanded="true" signature="9972:10004" placeholder="DELETE FROM ..." />
+            <marker date="1462488889704" expanded="true" signature="10114:10145" placeholder="SELECT id, u..professeur..." />
+            <marker date="1462488889704" expanded="true" signature="10371:10407" placeholder="SELECT id, e..liste_etudiant..." />
+            <marker date="1462488889704" expanded="true" signature="10665:10699" placeholder="SELECT id, c..liste_etudiant..." />
+            <marker date="1462488889704" expanded="true" signature="10982:11015" placeholder="SELECT id_et..auth..." />
+            <marker date="1462488889704" expanded="true" signature="11194:11257" placeholder="UPDATE liste..." />
+            <marker date="1462488889704" expanded="true" signature="11382:11443" placeholder="UPDATE profe..." />
+            <marker date="1462488889704" expanded="true" signature="11560:11616" placeholder="UPDATE profe..." />
+            <marker date="1462488889704" expanded="true" signature="11727:11782" placeholder="UPDATE auth ..." />
+            <marker date="1462488889704" expanded="true" signature="11943:12010" placeholder="INSERT INTO ..." />
+            <marker date="1462488889704" expanded="true" signature="11943:12011" placeholder="INSERT INTO ..." />
+            <marker date="1462488889704" expanded="true" signature="13230:13362" placeholder="INSERT INTO ..." />
+            <marker date="1462488889704" expanded="true" signature="13498:13571" placeholder="INSERT INTO ..." />
+            <marker date="1462488889704" expanded="true" signature="14301:14370" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\connexion">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\connexion</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">\connexion</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="45.0" y="15.0" />
+          <SelectedNodes>
+            <node>\connexion</node>
+          </SelectedNodes>
+          <Categories />
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
